@@ -1,0 +1,12 @@
+.main-icon{
+    height: 100px;
+}
+.menu{
+    display: inline-block;
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    margin: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
