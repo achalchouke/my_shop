@@ -1,4 +1,4 @@
-# My ShOp
+# My Shop
 
 This refreshing treat is topped with glazed fresh fruit and dreamy pastry cream in a crisp tart shell. A custom cake can make any occasion feel extra special, especially once you dive into the pillowy sweetness beneath the velvety frosting.
 
